@@ -1,4 +1,14 @@
-[master (root-commit) 485da70] This is a simple python code
- 2 files changed, 10 insertions(+)
- create mode 100644 code
- create mode 100644 learn
+	
+	X = 20
+
+	if X > 20:
+	  print("large number")
+
+	Else if X < 20:
+	  print("print small number")
+
+	Else if X = 20:
+	  print("good")
+
+	Else:
+	  print("not good")
