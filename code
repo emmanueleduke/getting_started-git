@@ -1,0 +1,7 @@
+#Python conditional statement.
+
+
+ 	X = 5
+
+	if X < 10:
+	  print("small number")
