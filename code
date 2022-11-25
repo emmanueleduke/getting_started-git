@@ -5,7 +5,7 @@
 	  print("large number")
 
 	Else if X < 20:
-	  print("print small number")
+	  print("small number")
 
 	Else if X = 20:
 	  print("good")
